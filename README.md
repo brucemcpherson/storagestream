@@ -1,3 +1,3 @@
 # storagestream
 streaming to google cloud storage
-more info at http://ramblings.mcpher.com/Home/excelquirks/vuejs-and-apollo-graphql/google-cloud-platform/moregcsstreaming
+more info at https://ramblings.mcpher.com/google-cloud-platform/more-cloud-streaming/
